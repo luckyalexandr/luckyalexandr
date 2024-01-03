@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Stepanov
+==========================================================================================================================================
+
+Web Developer and Designer
+--------------------------
+
+*   🌍  I'm based in Hannover
+*   ✉️  You can contact me at [luckyalexandr@gmail.com](mailto:luckyalexandr@gmail.com)
+*   🧠  I'm learning php, python, yii2,
+*   🤝  I'm open to collaborating on interesting project
+*   ⚡  for now working from Android phone - it's hard, but really want to do something helpful
 
 <!--
 **luckyalexandr/luckyalexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
